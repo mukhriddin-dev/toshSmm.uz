@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+    default: toshsmm.uz
+    template: '%s — toshsmm'
+  description: ""
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: toshsmm
     images:
       - url: '~/assets/images/default.png'
         width: 1200

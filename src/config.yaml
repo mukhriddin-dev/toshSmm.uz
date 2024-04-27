@@ -1,5 +1,5 @@
 site:
-  name: AstroWind
+  name: tshosmm.uz
   site: 'https://astrowind.vercel.app'
   base: '/'
   trailingSlash: false
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: toshsmm.uz
+    default: tshosmm.uz
     template: '%s — toshsmm'
   description: ""
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: toshsmm
+    site_name: tshosmm
     images:
       - url: '~/assets/images/default.png'
         width: 1200
